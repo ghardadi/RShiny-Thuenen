@@ -1,0 +1,16 @@
+
+<p style="background-color:LightGreen;", "text-align:center"> this Shiny is work in progress and should not be used for data requests or data exploration yet</p>
+
+﻿<p style="text-align:JUSTIFY">
+<font size="2">Tables, plots and graphs presented in this document and overviews are made for the internal analysis of  
+national fisheries data collection and are not designed for any other use. Data used for the outputs are extracted from the Thünen-OF database 
+and European Fleet Register. Due to different aggregations and reporting authorities, data can differ to those, e.g., used for assessments or 
+technical reports. The latest year should be viewed as provisional. Data can be 
+resubmitted or changed for more than one previous year so there might be differences in other data outputs in time. 
+Responsibility for the quality of the data and comparability to other data sources lies with the insitute and federal agencies that provided these data. The respective 
+scripts and calculations used for data displaying are publicly available via the Thünen GitHub <a href="https://github.com/ices-eg/thuenen"> Thünen GitHub </a> 
+and subject to change as the work of the group progresses.</font> 
+
+<br>
+
+<img src="logo_regular.png" width="300" height ="100" />
